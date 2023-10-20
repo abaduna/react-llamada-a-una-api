@@ -1,0 +1,12 @@
+.mosue-area{
+  height: 600px;
+  background-color: pink;
+  border: 1px solid black;
+  width: 100;
+}
+
+h1,h2{
+  color: withe;
+  margin-top: 1em;
+  text-align: center;
+}
